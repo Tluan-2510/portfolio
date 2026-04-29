@@ -77,7 +77,7 @@ const renderAbout = () => {
       </div>
       <div class="stats-grid">
         <div class="stat-item reveal" style="transition-delay: 0.2s">
-          <span class="stat-number">HCMUT</span>
+          <span class="stat-number">UTH</span>
           <span class="stat-label">University</span>
         </div>
         <div class="stat-item reveal" style="transition-delay: 0.3s">
@@ -437,8 +437,8 @@ const renderFooter = () => {
   footer.innerHTML = `
     <div class="container footer-content">
       <div class="footer-brand">
-        <span class="gradient-text">MY PORTFOLIO</span>
-        <p>© 2026 My Portfolio. All rights reserved.</p>
+        <span class="gradient-text">Nguyễn Thành Luân</span>
+        <p>© 2026 Nguyễn Thành Luân. All rights reserved.</p>
       </div>
       <div class="footer-links">
         <a href="#" class="social-link zalo">
