@@ -1,6 +1,6 @@
-# 📌 AI Antigravity Lab - Project Rules
+# 📌 My Portfolio - Project Rules
 
-Tài liệu này quy định các tiêu chuẩn và quy tắc bắt buộc khi viết code và quản lý mã nguồn cho dự án AI Antigravity Lab.
+Tài liệu này quy định các tiêu chuẩn và quy tắc bắt buộc khi viết code và quản lý mã nguồn cho dự án My Portfolio.
 
 ## 1. Quy tắc Quản lý Mã nguồn (Git/GitHub)
 
