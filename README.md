@@ -1,6 +1,6 @@
 # 🚀 Nguyễn Thành Luân - Portfolio
 
-A professional, high-performance portfolio website built with **Vite, Vanilla JS, and CSS**. This project features a modern "Antigravity" design concept with glassmorphism, dynamic animations, and a fully responsive layout.
+A professional, high-performance portfolio website built with **Vite, Vanilla JS, and CSS**. This project features a modern design concept with glassmorphism, dynamic animations, and a fully responsive layout.
 
 ## ✨ Key Features
 
